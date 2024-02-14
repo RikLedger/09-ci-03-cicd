@@ -135,4 +135,4 @@
 
 ![img_15.png](IMG/img_15.png)
 
-4. Исправленный файл `pom.xml`: [ссылка](https://github.com/DemoniumBlack/fedorchukds-devops-33-23/blob/main/SRC/pom.xml)
+4. Исправленный файл `pom.xml`: [ссылка](https://github.com/RikLedger/09-ci-02-cicd/blob/main/SRC%20/pom.xml)
