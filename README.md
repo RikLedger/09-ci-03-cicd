@@ -96,7 +96,7 @@
 
 ![img_11.png](IMG/img_11.png)
 
-4. [Ссылка на maven-metadata.xml](https://github.com/DemoniumBlack/fedorchukds-devops-33-23/blob/main/SRC/maven-metadata.xml)
+4. [Ссылка на maven-metadata.xml](https://github.com/RikLedger/09-ci-02-cicd/blob/main/SRC%20/maven-metadata.xml)
 
 
 
