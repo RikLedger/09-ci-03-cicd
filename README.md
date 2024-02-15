@@ -2,7 +2,7 @@
 
 ## Подготовка к выполнению
 
-1. Создал две VM в Yandex Cloud с параметрами: 2CPU 4RAM Centos7. Для создания использовал Terraform, [ссылка](https://github.com/DemoniumBlack/fedorchukds-devops-33-23/tree/main/terraform) на код.
+1. Создал две VM в Yandex Cloud с параметрами: 2CPU 4RAM Centos7. Для создания использовал Terraform, [ссылка](https://github.com/RikLedger/09-ci-02-cicd/tree/main/terraform%20) на код.
 2. Прописал в inventory созданные хосты.
 3. Добавил в директорию files файл со своим публичным ключом (id_ed25519.pub).
 4. Запустил playbook, дождался успешного завершения:
@@ -28,7 +28,7 @@
 2. Скачайте пакет sonar-scanner, который вам предлагает скачать SonarQube.
 3. Сделайте так, чтобы binary был доступен через вызов в shell (или поменяйте переменную PATH, или любой другой, удобный вам способ).
 4. Проверьте `sonar-scanner --version`.
-5. Запустите анализатор против кода из директории [example](./example) с дополнительным ключом `-Dsonar.coverage.exclusions=fail.py`.
+5. Запустите анализатор против кода из директории example с дополнительным ключом `-Dsonar.coverage.exclusions=fail.py`.
 6. Посмотрите результат в интерфейсе.
 7. Исправьте ошибки, которые он выявил, включая warnings.
 8. Запустите анализатор повторно — проверьте, что QG пройдены успешно.
